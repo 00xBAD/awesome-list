@@ -1,0 +1,29 @@
+name: Build README
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up permissions for the script
+        run: chmod +x build.sh
+        
+      - name: Run the build script
+        run: ./build.sh
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README.md [skip ci]" || echo "No changes to commit"
+          git push
