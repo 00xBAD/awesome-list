@@ -25,13 +25,20 @@
 - **[LanguageTool](https://languagetool.org/)** - Writing Assistant multi-language, has browser extension.
 
 ### AI-Powered Tools
+
 - **[chainner](https://chainner.app/)** - Node-based image processing tool with AI capabilities
 - **[Flowframes](https://nmkd.itch.io/flowframes)** - Video frames interpolation powered by AI models
 
 ### Models Databases
+
 - **[Hugging Face](https://huggingface.co/)** - The main multi-purpose AI models database
 - **[CivitAI](https://civitai.com/)** - Biggest database of AI models for Stable Diffusion
 - **[OpenModelDB](https://openmodeldb.info/)** - AI Upscaling models
 
 ### GPU-Powered VPS
+
 - **[RunPod](https://www.runpod.io/)** - The best pay-as-you-go cloud VPS for intensive GPU tasks for AI.
+
+### Models API's
+
+- **[OpenRouter](https://openrouter.ai)** - A unified interface for LLMs. Find the best models & prices for your prompts.

@@ -5,8 +5,9 @@
 - **[QuickRef](https://quickref.me)** - Quick Reference and cheatsheets for a lot of programming languages.
 - **[Modern Javascript](https://javascript.info)** - A comprehensive guide to the Javascript language.
 
-### Tools
+### Automation Tools
 
+- **[n8n.io](https://n8n.io)** - Secure, AI-native workflow automation tool.
 - **[Node-RED](https://nodered.org)** - Node-based flows programming tool to connect online / local services.
 
 ### Videogame Development

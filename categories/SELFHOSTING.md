@@ -21,10 +21,6 @@
 
 - **[Part-DB](https://github.com/Part-DB/Part-DB-server)** - Part-DB is an Open source inventory management system for your electronic components 
 
-### Docker
-
-- **[portainer](https://www.portainer.io)** - Effortless Container Management for Docker and Kubernetes.
-
 ### Multimedia
 
 - **[Plex Media Server](https://www.plex.tv/media-server-downloads)** - A good multimedia server for Movies / TV Shows / Music
