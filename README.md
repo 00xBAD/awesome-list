@@ -8,6 +8,7 @@ A curated list of awesome tools, frameworks, utilities, and resources spanning a
 - [Awesomes ✨](#awesomes-)
 - [Design 🎨](#design-)
 - [Development 💻](#development-)
+- [Docker 🐳](#docker-)
 - [Gaming 🕹](#gaming-)
 - [Hacking 💀](#hacking-)
 - [Hardware 💽](#hardware-)
@@ -52,17 +53,23 @@ A curated list of awesome tools, frameworks, utilities, and resources spanning a
 - **[LanguageTool](https://languagetool.org/)** - Writing Assistant multi-language, has browser extension.
 
 ### AI-Powered Tools
+
 - **[chainner](https://chainner.app/)** - Node-based image processing tool with AI capabilities
 - **[Flowframes](https://nmkd.itch.io/flowframes)** - Video frames interpolation powered by AI models
 
 ### Models Databases
+
 - **[Hugging Face](https://huggingface.co/)** - The main multi-purpose AI models database
 - **[CivitAI](https://civitai.com/)** - Biggest database of AI models for Stable Diffusion
 - **[OpenModelDB](https://openmodeldb.info/)** - AI Upscaling models
 
 ### GPU-Powered VPS
+
 - **[RunPod](https://www.runpod.io/)** - The best pay-as-you-go cloud VPS for intensive GPU tasks for AI.
 
+### Models API's
+
+- **[OpenRouter](https://openrouter.ai)** - A unified interface for LLMs. Find the best models & prices for your prompts.
 ---
 
 ## Awesomes ✨
@@ -134,8 +141,9 @@ A curated list of awesome tools, frameworks, utilities, and resources spanning a
 - **[QuickRef](https://quickref.me)** - Quick Reference and cheatsheets for a lot of programming languages.
 - **[Modern Javascript](https://javascript.info)** - A comprehensive guide to the Javascript language.
 
-### Tools
+### Automation Tools
 
+- **[n8n.io](https://n8n.io)** - Secure, AI-native workflow automation tool.
 - **[Node-RED](https://nodered.org)** - Node-based flows programming tool to connect online / local services.
 
 ### Videogame Development
@@ -156,6 +164,20 @@ A curated list of awesome tools, frameworks, utilities, and resources spanning a
 ### Testing Tools
 
 - **[mailpit](https://github.com/axllent/mailpit)** - An email and SMTP testing tool with API for developers.
+
+---
+
+## Docker 🐳
+
+### Container Managers
+
+- **[yacht](https://yacht.sh)** - A container management UI with a focus on templates and 1-click deployments.
+- **[portainer](https://www.portainer.io)** - Effortless Container Management for Docker and Kubernetes.
+
+### Docker Images
+
+- **[linuxserver.io](https://www.linuxserver.io)** - Open community of curated and maintained images
+
 
 ---
 
@@ -501,10 +523,6 @@ A curated list of awesome tools, frameworks, utilities, and resources spanning a
 ### Management Systems
 
 - **[Part-DB](https://github.com/Part-DB/Part-DB-server)** - Part-DB is an Open source inventory management system for your electronic components 
-
-### Docker
-
-- **[portainer](https://www.portainer.io)** - Effortless Container Management for Docker and Kubernetes.
 
 ### Multimedia
 
